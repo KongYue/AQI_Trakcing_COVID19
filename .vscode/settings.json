@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/58ce08c4-7817-4c0a-a95d-83f6f4fe2018/resourceGroups/AQI_Project_Group/providers/Microsoft.Web/sites/aqitracking"
+}

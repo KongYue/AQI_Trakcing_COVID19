@@ -1,0 +1,40 @@
+/* #myChart{
+    max-width: 50%;
+    max-height: 50%;
+} */
+.container {
+    margin: auto;
+}
+
+body {
+   
+}
+
+.lab {
+    padding-left: 0;
+}
+.submit {
+  margin-top: 1%;
+ 
+}
+.chart {
+  margin-top: 1%;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  width: 5%;
+  text-align: center;
+  height: 100%;
+}
+/* #myProgress {
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  } */
